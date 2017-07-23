@@ -1,0 +1,10 @@
+Readme: WooCommerce Recent Purchase Notifications
+
+This WordPress plugin adds a popup notification box to the front end of WordPress. It then queries past WooCommerce orders to make suggestions to the user about potential purchases that they may wish to make.
+
+Future Steps:
+1. Compile CSS into separate file so it can be optimised using plugins such as autoptimize or can be cached by the browser.
+2. Compile jQuery code into JS file so it can be optimised using plugins such as autoptimize or can be cached by the browser.
+3. Add options page to allow site administrator to select the time period that is queried for past purchases (currently 1 month)
+4. Add ability to show recent articles, posts and custom post types instead of or alongside WooCommmerce Product Orders.
+5. Add the ability to show recently viewed or "trending" articles.
